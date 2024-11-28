@@ -1,1 +1,2 @@
-# farm-e-store
+# React + TypeScript + Vite
+
